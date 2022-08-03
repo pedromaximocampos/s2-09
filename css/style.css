@@ -1,0 +1,27 @@
+
+
+.cabeçalho{
+    background-color: rgb(255, 251, 251);
+    color: black;
+    text-align: center;
+}
+
+.paragrafoprincipal{
+
+background-color: blue;
+color: aliceblue;
+
+
+}
+
+span{
+    color:blue ;
+}
+
+.rodape{
+ background-color: black;
+ color: aliceblue;
+
+text-align: center;
+
+}
